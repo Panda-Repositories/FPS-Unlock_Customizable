@@ -34,6 +34,7 @@ namespace FPS_Unlock_UI_Sample
             {
                 string valuestring = textBox1.Text;
                 double value = Convert.ToDouble(valuestring); //Convert the String to Double since even you type No. on text, it will show as a string, so it gonna convert it to double. 0-9, 
+                fps.SendFPSValue(value); // Send the Value to the Pipe.
             }
             catch (Exception)
             {
