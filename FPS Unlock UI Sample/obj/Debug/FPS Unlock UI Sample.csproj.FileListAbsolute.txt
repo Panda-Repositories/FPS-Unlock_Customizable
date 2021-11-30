@@ -1,0 +1,13 @@
+C:\Users\kerle\source\repos\FPS Unlock UI Sample\bin\Debug\FPS Unlock UI Sample.exe.config
+C:\Users\kerle\source\repos\FPS Unlock UI Sample\bin\Debug\FPS Unlock UI Sample.exe
+C:\Users\kerle\source\repos\FPS Unlock UI Sample\bin\Debug\FPS Unlock UI Sample.pdb
+C:\Users\kerle\source\repos\FPS Unlock UI Sample\bin\Debug\FPS-Unlock API.dll
+C:\Users\kerle\source\repos\FPS Unlock UI Sample\bin\Debug\FPS-Unlock API.pdb
+C:\Users\kerle\source\repos\FPS Unlock UI Sample\obj\Debug\FPS Unlock UI Sample.csproj.AssemblyReference.cache
+C:\Users\kerle\source\repos\FPS Unlock UI Sample\obj\Debug\FPS_Unlock_UI_Sample.Form1.resources
+C:\Users\kerle\source\repos\FPS Unlock UI Sample\obj\Debug\FPS_Unlock_UI_Sample.Properties.Resources.resources
+C:\Users\kerle\source\repos\FPS Unlock UI Sample\obj\Debug\FPS Unlock UI Sample.csproj.GenerateResource.cache
+C:\Users\kerle\source\repos\FPS Unlock UI Sample\obj\Debug\FPS Unlock UI Sample.csproj.CoreCompileInputs.cache
+C:\Users\kerle\source\repos\FPS Unlock UI Sample\obj\Debug\FPS Unlock UI Sample.csproj.CopyComplete
+C:\Users\kerle\source\repos\FPS Unlock UI Sample\obj\Debug\FPS Unlock UI Sample.exe
+C:\Users\kerle\source\repos\FPS Unlock UI Sample\obj\Debug\FPS Unlock UI Sample.pdb
