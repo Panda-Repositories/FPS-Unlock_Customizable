@@ -1,0 +1,5 @@
+C:\Users\kerle\source\repos\FPSUnlockAPI\obj\Debug\FPSUnlockAPI.csproj.CoreCompileInputs.cache
+C:\Users\kerle\source\repos\FPSUnlockAPI\bin\Debug\FPS-Unlock API.dll
+C:\Users\kerle\source\repos\FPSUnlockAPI\bin\Debug\FPS-Unlock API.pdb
+C:\Users\kerle\source\repos\FPSUnlockAPI\obj\Debug\FPS-Unlock API.dll
+C:\Users\kerle\source\repos\FPSUnlockAPI\obj\Debug\FPS-Unlock API.pdb
